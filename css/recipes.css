@@ -1,0 +1,27 @@
+.bild {
+    width: 300px;
+    height: auto;
+}
+
+h1, h4{
+    background-color: grey;
+    color: white;
+    font-weight: bold;
+}
+
+.green {
+    background-color: green;
+    color: pink;
+}
+
+.red {
+    background-color: red;
+    color: yellow;
+}
+
+ul {
+    background-color: pink;
+}
+ol{
+    background-color: peru;
+}
